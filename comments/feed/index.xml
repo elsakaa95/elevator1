@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for website For Selling Elevator	</title>
+	<atom:link href="https://elsakaa95.github.io/elevator1/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://elsakaa95.github.io/elevator1</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 28 Feb 2022 18:12:12 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<item>
+		<title>
+		Comment on Hello world! by A WordPress Commenter		</title>
+		<link>https://elsakaa95.github.io/elevator1/2022/02/28/hello-world/#comment-1</link>
+
+		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
+		<pubDate>Mon, 28 Feb 2022 18:12:12 +0000</pubDate>
+		<guid isPermaLink="false">https://elsakaa95.github.io/elevator1/?p=1#comment-1</guid>
+
+					<description><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
+Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Etiam laoreet sem by Joe Doe		</title>
+		<link>https://elsakaa95.github.io/elevator1/2016/06/13/etiam-laoreet-sem-eget-eros-rhoncus-5/#comment-4</link>
+
+		<dc:creator><![CDATA[Joe Doe]]></dc:creator>
+		<pubDate>Tue, 28 Jun 2016 13:04:33 +0000</pubDate>
+		<guid isPermaLink="false">http://sw-themes.com/porto_dummy/?p=19#comment-4</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae, gravida pellentesque urna varius vitae.]]></description>
+			<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae, gravida pellentesque urna varius vitae.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Etiam laoreet sem by Joe Doe		</title>
+		<link>https://elsakaa95.github.io/elevator1/2016/06/13/etiam-laoreet-sem-eget-eros-rhoncus-5/#comment-3</link>
+
+		<dc:creator><![CDATA[Joe Doe]]></dc:creator>
+		<pubDate>Tue, 28 Jun 2016 13:04:18 +0000</pubDate>
+		<guid isPermaLink="false">http://sw-themes.com/porto_dummy/?p=19#comment-3</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://elsakaa95.github.io/elevator1/2016/06/13/etiam-laoreet-sem-eget-eros-rhoncus-5/#comment-2&quot;&gt;Joe Doe&lt;/a&gt;.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae, gravida pellentesque urna varius vitae.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://elsakaa95.github.io/elevator1/2016/06/13/etiam-laoreet-sem-eget-eros-rhoncus-5/#comment-2">Joe Doe</a>.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae, gravida pellentesque urna varius vitae.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Etiam laoreet sem by Joe Doe		</title>
+		<link>https://elsakaa95.github.io/elevator1/2016/06/13/etiam-laoreet-sem-eget-eros-rhoncus-5/#comment-2</link>
+
+		<dc:creator><![CDATA[Joe Doe]]></dc:creator>
+		<pubDate>Tue, 28 Jun 2016 13:03:20 +0000</pubDate>
+		<guid isPermaLink="false">http://sw-themes.com/porto_dummy/?p=19#comment-2</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae, gravida pellentesque urna varius vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae. Sed dui lorem, adipiscing in adipiscing et, interdum nec metus. Mauris ultricies, justo eu convallis placerat, felis enim ornare nisi, vitae mattis nulla ante id dui.]]></description>
+			<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae, gravida pellentesque urna varius vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae. Sed dui lorem, adipiscing in adipiscing et, interdum nec metus. Mauris ultricies, justo eu convallis placerat, felis enim ornare nisi, vitae mattis nulla ante id dui.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

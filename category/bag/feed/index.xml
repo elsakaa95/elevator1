@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bag &#8211; website For Selling Elevator</title>
+	<atom:link href="https://elsakaa95.github.io/elevator1/category/bag/feed/" rel="self" type="application/rss+xml" />
+	<link>https://elsakaa95.github.io/elevator1</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 26 Feb 2018 07:40:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<item>
+		<title>Post Format Video</title>
+		<link>https://elsakaa95.github.io/elevator1/2018/02/26/post-format-video/</link>
+					<comments>https://elsakaa95.github.io/elevator1/2018/02/26/post-format-video/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2018 07:40:26 +0000</pubDate>
+				<category><![CDATA[Bag]]></category>
+		<category><![CDATA[Traveling]]></category>
+		<guid isPermaLink="false">http://sw-themes.com/porto_dummy/elementor/shop1/?p=1349</guid>
+
+					<description><![CDATA[Leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages more recently with desktop publishing software like Aldus.]]></description>
+										<content:encoded><![CDATA[<p>Leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages more recently with desktop publishing software like Aldus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://elsakaa95.github.io/elevator1/2018/02/26/post-format-video/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Post Format Heading phasellus volutpat loremeget mauris  ultricesnon scelerisque tellus volutpat.</title>
+		<link>https://elsakaa95.github.io/elevator1/2018/02/26/post-format-heading-phasellus-volutpat-loremeget-mauris-ultricesnon-scelerisque-tellus-volutpat/</link>
+					<comments>https://elsakaa95.github.io/elevator1/2018/02/26/post-format-heading-phasellus-volutpat-loremeget-mauris-ultricesnon-scelerisque-tellus-volutpat/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2018 07:10:17 +0000</pubDate>
+				<category><![CDATA[Bag]]></category>
+		<category><![CDATA[Traveling]]></category>
+		<guid isPermaLink="false">http://sw-themes.com/porto_dummy/elementor/shop1/?p=1347</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://elsakaa95.github.io/elevator1/2018/02/26/post-format-heading-phasellus-volutpat-loremeget-mauris-ultricesnon-scelerisque-tellus-volutpat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

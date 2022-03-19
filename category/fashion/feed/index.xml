@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fashion &#8211; website For Selling Elevator</title>
+	<atom:link href="https://elsakaa95.github.io/elevator1/category/fashion/feed/" rel="self" type="application/rss+xml" />
+	<link>https://elsakaa95.github.io/elevator1</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 26 Feb 2018 07:42:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<item>
+		<title>Post Format Standard</title>
+		<link>https://elsakaa95.github.io/elevator1/2018/02/26/post-format-standard/</link>
+					<comments>https://elsakaa95.github.io/elevator1/2018/02/26/post-format-standard/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2018 07:42:56 +0000</pubDate>
+				<category><![CDATA[Fashion]]></category>
+		<category><![CDATA[Model]]></category>
+		<guid isPermaLink="false">http://sw-themes.com/porto_dummy/elementor/shop1/?p=1354</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras non placerat mi. Etiam non tellus sem. Aenean pretium convallis lorem, sit amet dapibus ante mollis a. Integer bibendum interdum sem, eget volutpat purus pulvinar in. Sed tristique augue vitae sagittis porta. Phasellus ullamcorper, dolor suscipit mattis viverra, sapien elit condimentum odio, ut imperdiet nisi risus [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras non placerat mi. Etiam non tellus sem. Aenean pretium convallis lorem, sit amet dapibus ante mollis a. Integer bibendum interdum sem, eget volutpat purus pulvinar in. Sed tristique augue vitae sagittis porta. Phasellus ullamcorper, dolor suscipit mattis viverra, sapien elit condimentum odio, ut imperdiet nisi risus sit amet ante. Sed sem lorem, laoreet et facilisis quis, tincidunt non lorem. Etiam tempus, dolor in sollicitudin faucibus, sem massa accumsan erat.</p>
+<h3 style="color: #21293c;font-size: 18px;font-weight: 400;line-height: 27px">“ Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model search for evolved over sometimes by accident, sometimes on purpose ”</h3>
+<p>Aenean lorem diam, venenatis nec venenatis id, adipiscing ac massa. Nam vel dui eget justo dictum pretium a rhoncus ipsum. Donec venenatis erat tincidunt nunc suscipit, sit amet bibendum lacus posuere. Sed scelerisque, dolor a pharetra sodales, mi augue consequat sapien, et interdum tellus leo et nunc. Nunc imperdiet eu libero ut imperdiet.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://elsakaa95.github.io/elevator1/2018/02/26/post-format-standard/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Post Format Image</title>
+		<link>https://elsakaa95.github.io/elevator1/2018/02/26/post-format-image/</link>
+					<comments>https://elsakaa95.github.io/elevator1/2018/02/26/post-format-image/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2018 07:30:22 +0000</pubDate>
+				<category><![CDATA[Fashion]]></category>
+		<category><![CDATA[Model]]></category>
+		<guid isPermaLink="false">http://sw-themes.com/porto_dummy/elementor/shop1/?p=1344</guid>
+
+					<description><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and]]></description>
+										<content:encoded><![CDATA[<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://elsakaa95.github.io/elevator1/2018/02/26/post-format-image/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
